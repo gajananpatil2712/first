@@ -1,0 +1,9 @@
+[user]
+	name = gajananpatil
+	email = paulatsyapatil2712@gmail.com
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
